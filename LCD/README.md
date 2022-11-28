@@ -23,5 +23,6 @@ Because I only experienced this on "boot" no mitigation exists to recurrence of 
 
 Please no not any assumptions on the safety of this code.
 The stream of data revived over serial is not satanised there for an overflow may occur an any time.
+</br>
 IF your thinking of using this code in some risky environment please consider satanizing the stream and 
 safeguard against potential failures.
